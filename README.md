@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
+
 **EmilianoNunez4/EmilianoNunez4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+¡Hola! 👋 Soy Emiliano Núñez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente estoy trabajando en mejorar mis habilidades de desarrollo web y diseño, creando interfaces funcionales y atractivas.
+
+🌱 Estoy aprendiendo nuevas tecnologías de desarrollo y programación web, y profundizando mis conocimientos en bases de datos y diseño corporativo.
+
+👯 Busco colaborar en proyectos de desarrollo web, diseño de interfaces y branding donde pueda aportar valor y seguir creciendo.
+
+🤔 Estoy buscando ayuda para perfeccionarme en frameworks modernos de desarrollo web y mejorar mi inglés técnico.
+
+💬 Pregúntame sobre desarrollo web, maquetación, diseño corporativo, branding, Postman, XAMPP y más.
+
+📫 Cómo contactarme: emilianonunezz44@gmail.com
